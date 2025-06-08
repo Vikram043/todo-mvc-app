@@ -32,7 +32,7 @@ todo-mvc-app/
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/todo-mvc-app.git
+git clone https://github.com/vikram043/todo-mvc-app.git
 cd todo-mvc-app
 npm install
 ```
@@ -118,7 +118,3 @@ Request Body:
 - [Vikram](https://github.com/vikram043)
 
 ---
-
-## 📬 Submission Instructions
-1. Push the project to a public Masai GitHub repo.
-2. Share the repo link for evaluation.
